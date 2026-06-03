@@ -2,4 +2,3 @@ train.csv
 test.csv
 sample_submission.csv
 __pycache__/
-*.pkl
