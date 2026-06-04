@@ -35,13 +35,13 @@ python api.py
 ## 📸 Screenshots
 
 ### Dashboard — Hourly Trends, Zone Analysis & Weather Distribution
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Live Prediction Interface
-![Prediction](screenshots/Prediction.png)
+![Prediction](Prediction.png)
 
 ### Model Training Output — 5-Fold Cross Validation
-![Training](screenshots/training.png)
+![Training](training.png)
 
 ## 📊 ML Pipeline
 1. **Data Loading** — 77,299 train / 41,778 test records
